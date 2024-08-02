@@ -1,0 +1,21 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+div {
+    width: 25%;
+    background-color: honeydew;
+    display: inline-block;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+}   
+
+a {
+    display: block;
+}
+
+img {
+    padding: 2px;
+}
